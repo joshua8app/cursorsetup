@@ -1,0 +1,4 @@
+---
+alwaysApply: true
+---
+Before Coding, Make sure you are NOT on main or master branch, you should always be in a "Feature" or "Ticket" branch, if you don't know, just do somethign like `branch-YYYY-MM-DD-<Username>` ( Username is the user you are logged in as )
