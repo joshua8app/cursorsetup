@@ -1,4 +1,4 @@
-# setupdev
+# Sets up the environment for you to get started developing
 
 Before you code you should
 1) Verify you are on a "Ticket" or "Feature" branch, and not main or master

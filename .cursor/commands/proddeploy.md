@@ -1,4 +1,4 @@
-#proddeploy
+# Deploys your code to production
 Please commit all changes
 Then merge main into this branch, and resolve any merge conflicts, If you do end up having to merge items in, Please run
 `docker compose up -d --build` and STOP this process, and tell me "I had to merge changes, Please review them before going, Look at <tell me the areas that are likely changed> in particular"
